@@ -1,0 +1,6 @@
+# Saves, backups e preferencias locais nunca vao para o repositorio
+backup-*/
+backups/
+convertido/
+config.json
+.claude/
