@@ -1,5 +1,7 @@
 # Steam Save Sync
 
+**Português** | [English](README.en.md)
+
 App para Windows que copia o save de um jogo de uma conta Steam para outra(s) no mesmo PC, com poucos cliques.
 
 Útil para quem joga o mesmo jogo em mais de uma conta na mesma máquina (por exemplo, uma conta offline e a conta principal) e quer levar o progresso de uma para a outra.
